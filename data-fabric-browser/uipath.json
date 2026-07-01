@@ -1,0 +1,4 @@
+{
+  "scope": "DataFabric.Schema.Read DataFabric.Data.Read OR.Folders.Read",
+  "clientId": "3ceef1ab-2eb1-4977-a06d-8708b6fc1559"
+}
